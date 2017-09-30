@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-jdists",
+  "version": "0.0.3",
+  "description": "Code block processing with jdists - rollup plugin",
+  "main": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "zswang"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "rollup-pluginutils": "^2.0.1"
+  },
+  "peerDependencies": {
+    "jdists": "^2.2.0"
+  },
+  "files": [
+    "lib"
+  ]
+}
