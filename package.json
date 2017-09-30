@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-jdists",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Code block processing with jdists - rollup plugin",
   "main": "lib/index",
   "scripts": {
